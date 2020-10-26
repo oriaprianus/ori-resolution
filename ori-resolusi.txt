@@ -2,3 +2,5 @@ ori resolusi
 - belajar git
 - belajar git Hub
 - membuat program
+- membuat merch shop
+- colabotasi
