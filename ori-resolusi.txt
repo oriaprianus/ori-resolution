@@ -1,0 +1,4 @@
+ori resolusi
+- belajar git
+- belajar git Hub
+- membuat program
