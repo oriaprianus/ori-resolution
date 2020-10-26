@@ -1,6 +1,8 @@
 Rencana Konten Ori
 
 - JavaScript
+  *ES6
+  *Framework Javascript
 - Php Framwork
 - Interview
 - Vlog
