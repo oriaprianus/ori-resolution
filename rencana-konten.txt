@@ -3,7 +3,8 @@ Rencana Konten Ori
 - JavaScript
   *ES6
   *Framework Javascript
-- struktur data
+   ^ Angular
 - Php Framwork
+  ^ Laravel
 - Interview
 - Vlog
