@@ -4,6 +4,7 @@ Rencana Konten Ori
   *ES6
   *Framework Javascript
   ^vue
+  ^React
 - struktur data
 - Php Framwork
  ^laravel
